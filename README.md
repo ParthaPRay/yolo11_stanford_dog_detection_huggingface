@@ -32,6 +32,10 @@ The **YOLO Dog Breed Detection Web App** is a powerful and user-friendly tool de
 - **Scalable Architecture**: Designed to handle a large number of classes efficiently.
 - **High Accuracy**: Utilizes a robust YOLO model trained on a diverse dog breed dataset.
 
+## Dataset
+
+https://universe.roboflow.com/iliescu-mihail-doirn/stanford-dogs-dataset-dog-breed/dataset/1
+
 ## Demo
 
 ![Web App Demo](https://github.com/yourusername/your-repo-name/blob/main/assets/web_app_demo.gif?raw=true)
