@@ -38,7 +38,7 @@ https://universe.roboflow.com/iliescu-mihail-doirn/stanford-dogs-dataset-dog-bre
 
 ## Demo
 
-![Web App Demo](https://github.com/yourusername/your-repo-name/blob/main/assets/web_app_demo.gif?raw=true)
+![Web App Demo](https://huggingface.co/spaces/csepartha/yolo11_stanford_dog_detection)
 
 *Screenshot demonstrating the YOLO Dog Breed Detection Web App in action.*
 
