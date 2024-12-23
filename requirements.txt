@@ -1,0 +1,9 @@
+numpy
+opencv-python
+Pillow
+gradio
+pandas
+ultralytics
+PyYAML
+torch
+
