@@ -1,5 +1,5 @@
 # YOLO Dog Breed Detection Web App
-
+![YOLO Dog ImageWoof](https://img.icons8.com/color/96/000000/dog.png)
 ![image](https://github.com/user-attachments/assets/4f63e9c8-fc24-4b9f-8c57-eb33766fa7b3)
 
 ## Table of Contents
