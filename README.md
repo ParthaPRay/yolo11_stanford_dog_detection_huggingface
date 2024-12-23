@@ -1,5 +1,7 @@
 # YOLO Dog Breed Detection Web App
 
+![image](https://github.com/user-attachments/assets/4f63e9c8-fc24-4b9f-8c57-eb33766fa7b3)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -192,31 +194,6 @@ your-repo-name/
   demo.launch(server_port=7861)
   ```
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the Repository**
-
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add your feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-
-5. **Open a Pull Request**
 
 ## License
 
