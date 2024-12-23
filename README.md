@@ -1,7 +1,5 @@
 # YOLO Dog Breed Detection Web App
 
-![YOLO Dog Breed Detection](https://github.com/yourusername/your-repo-name/blob/main/assets/dog_detection_banner.png?raw=true)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -162,10 +160,6 @@ your-repo-name/
 ├── data.yaml                # YOLO data configuration file
 ├── requirements.txt         # Python dependencies
 ├── README.md                # Project documentation
-├── assets/
-│   ├── dog_detection_banner.png  # Banner image
-│   └── web_app_demo.gif          # Demo GIF
-└── other_project_files/     # Additional project-specific files
 ```
 
 ## Troubleshooting
@@ -230,7 +224,9 @@ For any questions or suggestions, please contact:
 - **Name:** Partha Pratim Ray
 - **Email:** parthapratimray1986@gmail.com
 
-
 ---
 
+## Hugging Face Space
+
+https://huggingface.co/spaces/csepartha/yolo11_stanford_dog_detection
 *Happy Detecting! 🐶🔍*
